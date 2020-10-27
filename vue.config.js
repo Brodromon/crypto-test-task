@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/crypto-test'
-  }
+  publicPath: "/crypto-test-task"
+};
